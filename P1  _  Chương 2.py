@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-A = np.linspace(-2, 2)
+A = np.linspace(-2,2)
 B3 = 3-A
 B2 = 2-A
 B1 = 1-A
